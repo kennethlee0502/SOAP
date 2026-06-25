@@ -1,0 +1,176 @@
+Provider: Good morning, Michael. It's good to see you again. How have you been?
+Patient: Pretty good overall.
+Provider: What brings you in today?
+Patient: Just my blood pressure follow-up.
+Provider: Any concerns since we last saw you?
+Patient: Not really. I feel fine most of the time.
+Provider: Have you been checking your blood pressure at home?
+Patient: Yeah.
+Provider: What kinds of numbers have you been seeing?
+Patient: Usually somewhere in the 140s over 90.
+Provider: Pretty consistently?
+Patient: Most of the time.
+Provider: How often are you checking it?
+Patient: Maybe three or four times a week.
+Provider: Any readings that were significantly higher?
+Patient: I had one that was around 155 over 95 after a stressful day at work.
+Provider: Any lower readings?
+Patient: Occasionally it'll be around 135 over 85.
+Provider: Have you been taking your medication consistently?
+Patient: Mostly.
+Provider: Tell me what mostly means.
+Patient: I probably miss a couple doses each week.
+Provider: What gets in the way?
+Patient: Honestly I just forget.
+Provider: What time do you usually take it?
+Patient: In the morning.
+Provider: Have you ever considered using a pill organizer or phone reminder?
+Patient: I've thought about it.
+Provider: It might help.
+Patient: Yeah, probably.
+Provider: Any side effects from the medication?
+Patient: No.
+Provider: Dizziness?
+Patient: No.
+Provider: Lightheadedness?
+Patient: No.
+Provider: Chronic cough?
+Patient: No.
+Provider: Any chest pain?
+Patient: No.
+Provider: Shortness of breath?
+Patient: No.
+Provider: Palpitations?
+Patient: No.
+Provider: Headaches?
+Patient: Not really.
+Provider: How has your diet been?
+Patient: Could definitely be better.
+Provider: What does a typical day look like?
+Patient: Coffee and a bagel for breakfast. Usually takeout for lunch. Dinner depends.
+Provider: How often are you cooking at home?
+Patient: Maybe once or twice a week.
+Provider: Any particular reason?
+Patient: Work's been busy.
+Provider: What do you do again?
+Patient: I'm an operations manager for a logistics company.
+Provider: How many hours are you working these days?
+Patient: Probably fifty to sixty a week.
+Provider: That's a lot.
+Patient: Yeah.
+Provider: How often are you eating fast food?
+Patient: More than I'd like to admit.
+Provider: A few times a week?
+Patient: Probably four or five.
+Provider: Have you been paying attention to sodium intake?
+Patient: Not really.
+Provider: Any exercise?
+Patient: Not much lately.
+Provider: What do you mean by not much?
+Patient: Maybe a walk on the weekends.
+Provider: You used to go to the gym, right?
+Patient: Before COVID I was pretty consistent.
+Provider: What happened?
+Patient: I got out of the habit and never really got back into it.
+Patient: I know I need to do better with my diet.
+Provider: It's something a lot of people struggle with.
+Patient: Yeah, I know exactly what I should be doing. I'm just not doing it.
+Provider: How's your weight been?
+Patient: Pretty stable.
+Provider: Any recent weight gain?
+Patient: Maybe five pounds over the last year.
+Provider: Any alcohol use?
+Patient: A couple beers on weekends.
+Provider: Smoking?
+Patient: Never.
+Provider: Vaping?
+Patient: No.
+Provider: Any recreational drug use?
+Patient: No.
+Provider: How's your stress level?
+Patient: Higher than I'd like.
+Provider: Work-related?
+Patient: Mostly.
+Provider: Anything else going on?
+Patient: My dad's health hasn't been great.
+Provider: What's going on with him?
+Patient: Heart problems. He's been in and out of the hospital.
+Provider: Sorry to hear that.
+Patient: Thanks.
+Provider: How's your sleep?
+Patient: Pretty decent.
+Provider: How many hours?
+Patient: Six to seven.
+Provider: Do you wake up feeling rested?
+Patient: Usually.
+Provider: Any snoring?
+Patient: My wife says I snore sometimes.
+Provider: Has anyone ever told you that you stop breathing during sleep?
+Patient: No.
+Provider: Any daytime fatigue?
+Patient: Not really.
+Provider: Let's take a look at your vitals.
+Patient: Okay.
+Provider: Blood pressure today is 148 over 92.
+Patient: Not great.
+Provider: It's still above goal.
+Patient: Yeah.
+Provider: Heart rate is 76.
+Patient: Okay.
+Provider: Weight is 218 pounds.
+Patient: Sounds about right.
+Provider: Let me listen to your heart and lungs.
+Patient: Sure.
+Provider: Heart sounds normal. Lungs are clear.
+Patient: Good.
+Provider: Any swelling in your legs?
+Patient: No.
+Provider: On exam I don't see any edema.
+Patient: Okay.
+Provider: Looking back at your last few visits, your blood pressure has been elevated pretty consistently.
+Patient: Yeah.
+Provider: I think there are a few things contributing here.
+Patient: Like what?
+Provider: Missed medication doses, diet, exercise, and stress.
+Patient: Fair.
+Provider: The good news is that all of those are things we can work on.
+Patient: True.
+Provider: Have you been monitoring your cholesterol too?
+Patient: Not recently.
+Provider: We'll get some updated labs today.
+Patient: Sounds good.
+Provider: I'd like to check a basic metabolic panel, cholesterol levels, and a hemoglobin A1c.
+Patient: Okay.
+Provider: Any family history of diabetes?
+Patient: My mom has type 2 diabetes.
+Provider: That's another reason to keep an eye on things.
+Patient: Makes sense.
+Provider: Given that your blood pressure remains elevated, I'd like to increase your lisinopril dose.
+Patient: What would that involve?
+Provider: Just a higher daily dose of the same medication.
+Patient: Any additional side effects?
+Provider: Potentially, but most people tolerate it well.
+Patient: Okay.
+Provider: I'd also like you to continue checking your blood pressure at home.
+Patient: I can do that.
+Provider: Try to bring a log to your next visit.
+Patient: Sure.
+Patient: I keep thinking I'll get serious about exercise next week.
+Provider: You don't need to do everything at once.
+Patient: That's good to hear.
+Provider: Even thirty minutes of walking several days a week can make a meaningful difference.
+Patient: I can probably manage that.
+Provider: We also talked about reducing sodium intake and cutting back on restaurant meals.
+Patient: Yeah, that's probably the biggest thing for me.
+Provider: Do you feel like that's achievable?
+Patient: Maybe not overnight, but I can start making some changes.
+Provider: That's all we're looking for.
+Patient: Okay.
+Provider: Any questions or concerns about the plan?
+Patient: No, I think it all makes sense.
+Provider: Great. We'll increase the lisinopril, get updated labs, and have you follow up in three months.
+Patient: Sounds good.
+Provider: Bring your home blood pressure readings with you.
+Patient: Will do.
+Provider: Thanks for coming in.
+Patient: Thanks, doctor.

@@ -1,0 +1,155 @@
+Provider: Hi Sarah, it's good to see you. What brings you in today?
+Patient: I've had this rash on my arms for about three weeks now.
+Provider: Tell me more about it.
+Patient: It started as a small patch near my left elbow. At first I didn't think much of it.
+Provider: And then?
+Patient: Over the next week or so it spread to both arms.
+Provider: Has it continued spreading?
+Patient: A little bit. Mostly down my forearms.
+Provider: What's bothering you the most about it?
+Patient: The itching.
+Provider: How severe is it?
+Patient: During the day it's annoying, but at night it's pretty bad.
+Provider: Bad enough to wake you up?
+Patient: Definitely.
+Patient: The itching is keeping me awake at night.
+Provider: Any pain?
+Patient: No.
+Provider: Burning sensation?
+Patient: Not really.
+Provider: Any drainage or bleeding?
+Patient: No.
+Provider: Have you noticed any blisters?
+Patient: No.
+Provider: Any swelling?
+Patient: No.
+Provider: Have you had anything like this before?
+Patient: When I was a kid I had eczema.
+Provider: How severe was it?
+Patient: Pretty bad when I was younger, but it mostly went away by high school.
+Provider: Any history of asthma?
+Patient: No.
+Provider: Seasonal allergies?
+Patient: Yeah, every spring.
+Provider: Have you changed any soaps, lotions, detergents, or skin products recently?
+Patient: Actually, yes.
+Provider: Tell me about that.
+Patient: My wife bought a new laundry detergent about a month ago.
+Provider: Around the time this started?
+Patient: Pretty close, yeah.
+Provider: Anything else new?
+Patient: No new medications.
+Provider: New pets?
+Patient: No.
+Provider: Recent travel?
+Patient: No.
+Provider: Any hiking or outdoor activities?
+Patient: Not really.
+Provider: Any exposure to poison ivy or similar plants?
+Patient: Not that I know of.
+Provider: Have you been scratching it?
+Patient: Probably more than I should.
+Provider: Understandable.
+Patient: Sometimes I don't even realize I'm doing it.
+Provider: Any fevers?
+Patient: No.
+Provider: Chills?
+Patient: No.
+Provider: Weight loss?
+Patient: No.
+Provider: Fatigue?
+Patient: No.
+Provider: Any rash anywhere else on your body?
+Patient: No, just my arms.
+Provider: Any symptoms in your hands?
+Patient: No.
+Provider: What have you tried so far?
+Patient: Over-the-counter hydrocortisone cream.
+Provider: How often?
+Patient: Once or twice a day.
+Provider: Has it helped?
+Patient: A little.
+Provider: How much is a little?
+Patient: Maybe the itching goes from an eight to a six.
+Provider: Then comes back?
+Patient: Pretty quickly.
+Provider: Have you tried antihistamines?
+Patient: Benadryl a couple times.
+Provider: Did it help?
+Patient: It made me sleepy.
+Provider: Fair enough.
+Provider: What do you do for work?
+Patient: I'm a graphic designer.
+Provider: Any exposure to chemicals or irritants at work?
+Patient: No.
+Provider: Any hobbies that might expose you to solvents, paints, or other materials?
+Patient: Not really.
+Provider: How has this affected your day-to-day life?
+Patient: Honestly it's mostly the sleep.
+Provider: Tell me more.
+Patient: If I'm busy during the day I can ignore it. At night it's all I can think about.
+Provider: That's frustrating.
+Patient: Yeah.
+Patient: I spend half the night trying not to scratch.
+Provider: Has anyone else in your household developed a similar rash?
+Patient: No.
+Provider: Any family history of eczema?
+Patient: My mom has it.
+Provider: Okay.
+Provider: Let me take a look.
+Patient: Sure.
+Provider: I see several red patches on both forearms.
+Patient: That's where it's worst.
+Provider: There is some mild scaling.
+Patient: Okay.
+Provider: I don't see signs of infection.
+Patient: Good.
+Provider: No drainage, crusting, or open wounds.
+Patient: That's a relief.
+Provider: The skin does appear irritated from scratching.
+Patient: Makes sense.
+Provider: Any tenderness when I press here?
+Patient: No.
+Provider: Looking at the distribution and your history, this appears most consistent with either eczema or contact dermatitis.
+Patient: What's the difference?
+Provider: Eczema is a chronic inflammatory skin condition. Contact dermatitis occurs when the skin reacts to an irritant or allergen.
+Patient: Could the detergent cause that?
+Provider: It certainly could.
+Patient: That's what my wife was worried about.
+Provider: The timing fits.
+Patient: Is this something serious?
+Provider: No, it doesn't appear dangerous.
+Patient: Good.
+Patient: I was worried it might be some kind of skin cancer.
+Provider: Nothing about this looks concerning for skin cancer.
+Patient: That's reassuring.
+Provider: I'd like you to stop using the new detergent for now.
+Patient: Okay.
+Provider: Switch back to your previous detergent if possible.
+Patient: We still have some at home.
+Provider: Good.
+Provider: I'm also going to prescribe a stronger topical steroid cream.
+Patient: How often do I use it?
+Provider: Twice daily for the next two weeks.
+Patient: Okay.
+Provider: Continue using a moisturizer as well.
+Patient: Any particular kind?
+Provider: A fragrance-free moisturizer would be ideal.
+Patient: Got it.
+Provider: Try to avoid scratching when possible.
+Patient: Easier said than done.
+Provider: I know.
+Provider: If the itching becomes severe, you can use an over-the-counter antihistamine at night.
+Patient: Okay.
+Provider: If things don't improve, we may consider allergy testing or a biopsy.
+Patient: Hopefully it won't come to that.
+Provider: I suspect we'll see improvement with these changes.
+Patient: That's good to hear.
+Provider: Any questions?
+Patient: No, I think that covers it.
+Provider: Great. I'd like you to follow up in about four weeks if you're not seeing improvement.
+Patient: Sounds good.
+Provider: And come back sooner if the rash spreads significantly or develops signs of infection.
+Patient: Will do.
+Provider: Thanks for coming in today.
+Patient: Thank you.

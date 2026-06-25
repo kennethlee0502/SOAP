@@ -1,0 +1,137 @@
+Psychiatrist: Hi Emily, it's good to see you again. How have things been since our last appointment?
+Patient: Better than a few months ago, but honestly I'm still pretty anxious most days.
+Psychiatrist: Tell me more about that.
+Patient: I feel like my baseline anxiety is lower than it used to be, but it's still there all the time. It's like this constant background noise.
+Psychiatrist: Is there anything in particular that triggers it?
+Patient: Work is the biggest thing. Every email feels urgent. Every meeting feels like bad news waiting to happen.
+Psychiatrist: Has anything negative actually happened at work recently?
+Patient: Not really. That's the frustrating part.
+Psychiatrist: What do you mean?
+Patient: Logically I know things are fine. My manager likes me. My performance reviews have been good. But I still feel like I'm one mistake away from getting fired.
+Psychiatrist: How often are you worrying about work?
+Patient: Every day.
+Psychiatrist: Most of the day?
+Patient: Probably. If I'm not actively doing something, my mind immediately starts going back to work.
+Psychiatrist: How has your sleep been?
+Patient: Not great.
+Psychiatrist: Walk me through a typical night.
+Patient: I fall asleep okay, usually around 11.
+Psychiatrist: And then?
+Patient: I wake up around 3 in the morning and my brain starts spinning.
+Psychiatrist: About work?
+Patient: Mostly work. Sometimes money. Sometimes random things that don't even make sense.
+Psychiatrist: How long does it take you to get back to sleep?
+Patient: Anywhere from thirty minutes to two hours.
+Psychiatrist: How many nights per week does that happen?
+Patient: Three or four.
+Psychiatrist: Any nightmares?
+Patient: No.
+Psychiatrist: How's your energy during the day?
+Patient: Pretty low.
+Psychiatrist: Because of poor sleep?
+Patient: I think so.
+Psychiatrist: Any issues with concentration?
+Patient: Definitely.
+Psychiatrist: Can you give me an example?
+Patient: I'll read the same email three times and still not absorb what it says.
+Psychiatrist: How's your appetite?
+Patient: Normal.
+Psychiatrist: Any weight changes?
+Patient: No.
+Psychiatrist: How have things been at home?
+Patient: Good overall. My husband says I'm less irritable than I was six months ago.
+Psychiatrist: That's encouraging.
+Patient: Yeah, I think the medication has helped.
+Psychiatrist: Are you still taking the sertraline every day?
+Patient: Every morning.
+Psychiatrist: Any missed doses?
+Patient: Maybe one or two over the last couple months.
+Psychiatrist: Any side effects?
+Patient: When I first started I had some nausea.
+Psychiatrist: Still having that?
+Patient: No, that's completely gone.
+Psychiatrist: Any headaches?
+Patient: No.
+Psychiatrist: Any sexual side effects?
+Patient: Maybe a little lower libido, but nothing severe.
+Psychiatrist: Okay.
+Patient: My brain just won't turn off at night.
+Psychiatrist: That sounds exhausting.
+Patient: It really is.
+Psychiatrist: Have you had any panic attacks since our last visit?
+Patient: One.
+Psychiatrist: Tell me about it.
+Patient: It happened at work.
+Psychiatrist: What was going on?
+Patient: We had a big presentation for a client.
+Psychiatrist: What symptoms did you have?
+Patient: My heart was racing. I felt shaky. I couldn't catch my breath.
+Psychiatrist: How long did it last?
+Patient: Maybe ten minutes.
+Psychiatrist: Did you think you were having a medical emergency?
+Patient: For a minute, yes.
+Psychiatrist: Have you had any panic attacks since then?
+Patient: No.
+Psychiatrist: Have you been attending therapy?
+Patient: Every other week.
+Psychiatrist: How's that going?
+Patient: Pretty well.
+Psychiatrist: What are you working on?
+Patient: A lot of cognitive behavioral therapy stuff. Challenging anxious thoughts.
+Psychiatrist: Has that been helpful?
+Patient: Sometimes. It's hard in the moment, but I think it's helping overall.
+Psychiatrist: Are you exercising?
+Patient: Not as much as I should.
+Psychiatrist: What does that mean?
+Patient: Maybe once a week.
+Psychiatrist: What kind of exercise?
+Patient: Usually jogging.
+Psychiatrist: Any alcohol use?
+Patient: A glass of wine maybe once or twice a week.
+Psychiatrist: Recreational drugs?
+Patient: No.
+Psychiatrist: Caffeine?
+Patient: Too much.
+Psychiatrist: How much?
+Patient: Three or four cups of coffee a day.
+Psychiatrist: Has that changed recently?
+Patient: No, that's pretty normal for me.
+Psychiatrist: Any depressive symptoms?
+Patient: Not really.
+Psychiatrist: Feeling hopeless?
+Patient: No.
+Psychiatrist: Loss of interest in activities?
+Patient: No.
+Psychiatrist: Low mood most days?
+Patient: Not really. Mostly anxiety.
+Psychiatrist: Any thoughts of self-harm?
+Patient: No.
+Psychiatrist: Any suicidal thoughts?
+Patient: No.
+Psychiatrist: Any thoughts of harming others?
+Patient: No.
+Psychiatrist: Good.
+Patient: Honestly, I feel like I'm functioning okay. I'm still working. I'm still seeing friends. I'm just tired of feeling anxious all the time.
+Psychiatrist: That's understandable.
+Patient: Even when things are going well, I assume something bad is about to happen.
+Psychiatrist: That's a good description of what you're experiencing.
+Patient: Yeah.
+Psychiatrist: From what you're describing, you've had a partial response to the medication. You're doing better than before, but you're still having significant anxiety symptoms.
+Patient: That sounds right.
+Psychiatrist: One option would be increasing the sertraline dose.
+Patient: What do you think?
+Psychiatrist: I think it's reasonable.
+Patient: Would that help with the sleep too?
+Psychiatrist: It may, if the nighttime awakenings are being driven by anxiety.
+Patient: Okay.
+Psychiatrist: I'd also encourage you to continue therapy and try to increase exercise if possible.
+Patient: Yeah, I know I need to.
+Psychiatrist: Any concerns about increasing the medication?
+Patient: Not really.
+Psychiatrist: Then I'd recommend increasing the dose and checking back in about six weeks.
+Patient: That sounds good.
+Psychiatrist: Anything else you'd like to discuss today?
+Patient: No, I think that's everything.
+Psychiatrist: Great. We'll send the updated prescription and see you back in six weeks.
+Patient: Thank you.
+Psychiatrist: You're welcome. Take care.

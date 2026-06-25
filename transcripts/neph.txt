@@ -1,0 +1,174 @@
+Nephrologist: Good afternoon, Mr. Davis. I'm Dr. Patel. I understand your primary care physician referred you to us.
+Patient: That's right.
+Nephrologist: What did they tell you about the referral?
+Patient: Mainly that my kidney numbers have been getting worse.
+Nephrologist: Okay. I reviewed some of your records before coming in.
+Patient: Alright.
+Nephrologist: Your creatinine has increased over the past year from about 1.5 to 2.0.
+Patient: Is that a big jump?
+Nephrologist: It's enough that we should investigate it further.
+Patient: Okay.
+Nephrologist: How have you been feeling overall?
+Patient: Pretty normal for the most part.
+Nephrologist: Any fatigue?
+Patient: Maybe a little, but nothing dramatic.
+Nephrologist: Any changes in appetite?
+Patient: No.
+Nephrologist: Any nausea?
+Patient: No.
+Nephrologist: Any vomiting?
+Patient: No.
+Nephrologist: Any recent weight loss?
+Patient: No.
+Nephrologist: Any swelling?
+Patient: Actually yes.
+Nephrologist: Tell me about that.
+Patient: My ankles have been swelling on and off for a few months.
+Nephrologist: Both ankles?
+Patient: Yes.
+Nephrologist: Is it worse at any particular time of day?
+Patient: Usually by the evening.
+Nephrologist: Better in the morning?
+Patient: Yeah, a little.
+Nephrologist: How long has that been going on?
+Patient: Maybe two or three months.
+Nephrologist: Any swelling elsewhere?
+Patient: Not that I've noticed.
+Nephrologist: Any shortness of breath?
+Patient: No.
+Nephrologist: Difficulty lying flat?
+Patient: No.
+Nephrologist: Chest pain?
+Patient: No.
+Nephrologist: Have you noticed any changes in urination?
+Patient: I get up more often at night.
+Nephrologist: How many times?
+Patient: Usually two or three.
+Nephrologist: Has that changed recently?
+Patient: It seems like it has gotten a little worse.
+Nephrologist: Any pain with urination?
+Patient: No.
+Nephrologist: Any blood in the urine?
+Patient: No.
+Nephrologist: Any foamy urine?
+Patient: Sometimes, maybe.
+Nephrologist: Any difficulty starting your stream?
+Patient: No.
+Nephrologist: Any history of kidney stones?
+Patient: No.
+Nephrologist: Have you ever seen a kidney specialist before?
+Patient: Never.
+Nephrologist: Let's talk about your medical history. I see diabetes and hypertension.
+Patient: That's right.
+Nephrologist: How long have you had diabetes?
+Patient: Around twelve years.
+Nephrologist: How has your blood sugar control been?
+Patient: It could definitely be better.
+Nephrologist: Do you know your last A1c?
+Patient: I think it was around eight.
+Nephrologist: Okay.
+Patient: My primary doctor wasn't thrilled about it.
+Nephrologist: I can understand that.
+Patient: I've been trying to improve.
+Nephrologist: How long have you had high blood pressure?
+Patient: Probably fifteen years.
+Nephrologist: Are you checking it at home?
+Patient: A few times a week.
+Nephrologist: What numbers are you seeing?
+Patient: Usually around 140 over 90.
+Nephrologist: Any recent readings higher than that?
+Patient: Occasionally.
+Nephrologist: What medications are you currently taking?
+Patient: Metformin, lisinopril, atorvastatin, and amlodipine.
+Nephrologist: Taking them consistently?
+Patient: Yes.
+Nephrologist: Any recent medication changes?
+Patient: No.
+Nephrologist: Do you take ibuprofen or other anti-inflammatory medications?
+Patient: Sometimes.
+Nephrologist: How often?
+Patient: A few times a week for back pain.
+Nephrologist: How long has that been going on?
+Patient: Years.
+Nephrologist: Approximately how much ibuprofen are you taking?
+Patient: Usually a couple tablets at a time.
+Nephrologist: That's important for me to know.
+Patient: Why?
+Nephrologist: Those medications can sometimes contribute to kidney problems.
+Patient: I didn't realize that.
+Nephrologist: A lot of people don't.
+Patient: Good to know.
+Nephrologist: Do you smoke?
+Patient: No.
+Nephrologist: Ever smoked?
+Patient: No.
+Nephrologist: Alcohol?
+Patient: Occasionally. Maybe a beer or two on weekends.
+Nephrologist: Any recreational drug use?
+Patient: No.
+Nephrologist: How much water do you typically drink?
+Patient: Probably not enough.
+Nephrologist: What does that mean?
+Patient: Maybe three or four glasses a day.
+Nephrologist: What do you do for work?
+Patient: I manage a warehouse.
+Nephrologist: Are you on your feet most of the day?
+Patient: Pretty much.
+Nephrologist: Does the swelling get worse after long days?
+Patient: I think so.
+Nephrologist: Any family history of kidney disease?
+Patient: Not that I'm aware of.
+Nephrologist: Any family history of diabetes?
+Patient: Both my parents had it.
+Nephrologist: Okay.
+Provider: Let me review your labs for a moment.
+Patient: Sure.
+Nephrologist: Your kidney function has declined gradually rather than suddenly.
+Patient: Is that good or bad?
+Nephrologist: It helps us understand the likely causes.
+Patient: Okay.
+Nephrologist: Given your history of diabetes and hypertension, those are high on the list.
+Patient: That makes sense.
+Nephrologist: Let me do an exam.
+Patient: Alright.
+Nephrologist: Your lungs sound clear.
+Patient: Good.
+Nephrologist: Heart sounds normal.
+Patient: Okay.
+Nephrologist: You do have mild swelling in both ankles.
+Patient: That's what I've been noticing.
+Nephrologist: I don't see anything suggesting severe fluid overload.
+Patient: Good.
+Nephrologist: At this point I think we need more information.
+Patient: What kind of testing?
+Nephrologist: I'd like blood work, urine studies, and a kidney ultrasound.
+Patient: Okay.
+Nephrologist: The ultrasound lets us look at the structure of the kidneys.
+Patient: Makes sense.
+Nephrologist: We'll also check for protein in the urine.
+Patient: Alright.
+Nephrologist: I want you to avoid ibuprofen and similar medications for now.
+Patient: I can do that.
+Nephrologist: We'll talk about alternatives for your back pain.
+Patient: Good.
+Nephrologist: We also discussed limiting sodium intake.
+Patient: That's probably something I could improve.
+Nephrologist: Most people can.
+Patient: I eat out more than I should.
+Nephrologist: Reducing sodium can help with both blood pressure and swelling.
+Patient: Got it.
+Nephrologist: Continue monitoring your blood pressure at home.
+Patient: Okay.
+Nephrologist: Any questions for me?
+Patient: Is this something that could eventually require dialysis?
+Nephrologist: It's much too early to say that.
+Patient: Alright.
+Nephrologist: Right now our goal is to understand what's causing the decline and slow or stop further progression.
+Patient: That sounds reasonable.
+Nephrologist: We'll review the testing results and meet again afterward.
+Patient: Sounds good.
+Nephrologist: Anything else you'd like to discuss today?
+Patient: No, I think that covers it.
+Nephrologist: Great. We'll get those tests scheduled and see you back once they're completed.
+Patient: Thank you, doctor.
+Nephrologist: You're welcome.

@@ -1,0 +1,129 @@
+Provider: Hi there, what brings you in today?
+Patient: I've had a cough and sore throat for about five days now.
+Provider: Five days?
+Patient: Yeah, I think it started last Thursday. At first I thought it was just allergies, but then the sore throat got worse.
+Provider: Any fever?
+Patient: The first couple days I had a low fever. The highest I saw was around 100.4.
+Provider: How are you checking your temperature?
+Patient: Just with one of those forehead thermometers at home.
+Provider: Have you had any fever recently?
+Patient: Not for the last two days.
+Provider: Any chills or body aches?
+Patient: The first day I felt kind of achy, but that's mostly gone.
+Provider: Tell me about the cough.
+Patient: It's mostly dry. Every once in a while I cough up a little mucus, but not much.
+Provider: What color is the mucus?
+Patient: Clear.
+Provider: Any blood?
+Patient: No.
+Provider: Any shortness of breath?
+Patient: No, not really.
+Provider: Any wheezing?
+Patient: No.
+Provider: Chest pain?
+Patient: No.
+Provider: Runny nose or congestion?
+Patient: Some congestion, especially in the mornings.
+Provider: Any sinus pressure?
+Patient: A little bit around my forehead, but not terrible.
+Provider: Have you noticed anything that makes the cough worse?
+Patient: At night for sure.
+Provider: How so?
+Patient: The cough is worse at night and keeps waking me up.
+Provider: How many times are you waking up?
+Patient: Probably three or four times a night.
+Provider: Are you sleeping okay otherwise?
+Patient: Not really. I've been pretty tired because of it.
+Provider: Have you missed work?
+Patient: I worked from home on Friday, but I've mostly been working normally.
+Provider: What do you do for work?
+Patient: I'm a project manager for a software company.
+Provider: Any recent travel?
+Patient: No.
+Provider: Anyone around you sick?
+Patient: My son had something very similar last week.
+Provider: How old is your son?
+Patient: Seven.
+Provider: Is he better now?
+Patient: Pretty much. He bounced back after a few days.
+Provider: Have you tested for COVID?
+Patient: I took a home test on Saturday and it was negative.
+Provider: Any history of asthma?
+Patient: No.
+Provider: COPD?
+Patient: No.
+Provider: Any other lung problems?
+Patient: None.
+Provider: Smoking history?
+Patient: Never smoked.
+Provider: Vaping?
+Patient: No.
+Provider: What have you been taking for symptoms?
+Patient: DayQuil during the day, NyQuil at night, cough drops, lots of tea.
+Provider: Has any of that helped?
+Patient: The DayQuil helps a little. The cough drops help for like ten minutes.
+Provider: Any prescription medications?
+Patient: Just a cholesterol medication.
+Provider: Which one?
+Patient: Atorvastatin.
+Provider: Any allergies to medications?
+Patient: No.
+Provider: Any nausea, vomiting, or diarrhea?
+Patient: No.
+Provider: Any ear pain?
+Patient: No.
+Provider: Any trouble swallowing?
+Patient: It hurts a little because my throat is irritated, but I can eat and drink normally.
+Provider: Have you been staying hydrated?
+Patient: I think so. I've been drinking a lot of water and tea.
+Provider: Okay. Let me take a listen to your lungs.
+Patient: Sure.
+Provider: Deep breath in.
+Patient: Like this?
+Provider: Perfect. And again.
+Patient: Okay.
+Provider: Your lungs sound clear.
+Patient: That's good.
+Provider: Let me check your oxygen level.
+Patient: Okay.
+Provider: Oxygen saturation is 98%.
+Patient: Great.
+Provider: Heart rate is 84. Temperature today is normal.
+Patient: Good to hear.
+Provider: Looking at your throat, I see mild redness but no significant swelling and no exudates.
+Patient: Does that mean it's not strep?
+Provider: It makes strep less likely, especially with the cough.
+Patient: Okay.
+Provider: Based on your symptoms, this appears most consistent with a viral upper respiratory infection.
+Patient: So I don't need antibiotics?
+Provider: Not at this point.
+Patient: My wife was convinced I'd need them.
+Provider: A lot of people think that, but antibiotics don't help viral infections.
+Patient: Fair enough.
+Provider: The good news is that you're already starting to improve. Your fever has resolved and your lungs sound clear.
+Patient: Yeah, I definitely don't feel as bad as I did a few days ago.
+Provider: The cough is often the last symptom to go away.
+Patient: How long are we talking?
+Provider: Sometimes a couple weeks.
+Patient: That's annoying.
+Provider: I know.
+Patient: Honestly, I mostly wanted to make sure this wasn't turning into pneumonia.
+Provider: That's a reasonable concern. Right now I don't see signs of pneumonia.
+Patient: Good.
+Provider: Continue fluids, rest when possible, and over-the-counter medications as needed.
+Patient: Okay.
+Provider: If you develop shortness of breath, chest pain, high fevers, or worsening symptoms, I'd like you to come back.
+Patient: Got it.
+Provider: Any other concerns while you're here?
+Patient: Actually, my shoulder has been a little sore from playing tennis.
+Provider: How long has that been going on?
+Patient: A couple months.
+Provider: Is it getting worse?
+Patient: No, actually better.
+Provider: Okay. Since it's improving, I'd suggest discussing it with your primary care physician if it continues.
+Patient: Sounds good.
+Provider: Anything else?
+Patient: No, that's it.
+Provider: Great. I think you'll continue to improve over the next week or so.
+Patient: Thanks, I appreciate it.
+Provider: You're welcome. Take care.

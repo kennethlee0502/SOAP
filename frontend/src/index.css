@@ -1,4 +1,10 @@
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -8,29 +14,151 @@ body {
   background: #f3f4f6;
 }
 
-.container { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+.container {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
 
-h1 { font-size: 1.5rem; font-weight: 700; }
-.subtitle { color: #6b7280; font-size: 0.875rem; margin-top: 0.2rem; margin-bottom: 1.75rem; }
+h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.subtitle {
+  color: #6b7280;
+  font-size: 0.875rem;
+  margin-top: 0.2rem;
+  margin-bottom: 1.75rem;
+}
 
-.controls { display: flex; gap: 0.625rem; align-items: center; margin-bottom: 1.25rem; }
-select { padding: 0.45rem 0.75rem; border: 1px solid #d1d5db; border-radius: 6px; font-size: 0.9rem; background: #fff; }
-button { padding: 0.45rem 1.25rem; font-size: 0.9rem; font-weight: 600; background: #2563eb; color: #fff; border: none; border-radius: 6px; cursor: pointer; }
-button:disabled { background: #93c5fd; cursor: not-allowed; }
+.controls {
+  display: flex;
+  gap: 0.625rem;
+  align-items: center;
+  margin-bottom: 1.25rem;
+}
+select {
+  padding: 0.45rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  background: #fff;
+}
+button {
+  padding: 0.45rem 1.25rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+button:disabled {
+  background: #93c5fd;
+  cursor: not-allowed;
+}
 
-.error { color: #dc2626; font-size: 0.875rem; margin-bottom: 1rem; }
+.error {
+  color: #dc2626;
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
 
-.soap-note { display: flex; flex-direction: column; gap: 0.875rem; }
+.soap-note {
+  display: flex;
+  flex-direction: column;
+  gap: 0.875rem;
+}
 
-.card { background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem; }
-.card-label { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.09em; color: #9ca3af; margin-bottom: 0.875rem; }
+.card {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+}
+.card-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: #9ca3af;
+  margin-bottom: 0.875rem;
+}
 
-.field { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #f3f4f6; }
-.field:first-of-type { margin-top: 0; padding-top: 0; border-top: none; }
-.field-label { font-size: 0.85rem; font-weight: 600; color: #374151; margin-bottom: 0.3rem; }
-.field-text { color: #1f2937; white-space: pre-line; }
+.field {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #f3f4f6;
+}
+.field:first-of-type {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+.field-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #374151;
+  margin-bottom: 0.3rem;
+}
+.field-text {
+  color: #1f2937;
+  white-space: pre-line;
+}
 
-.badge { font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: #059669; border: 1px solid #059669; border-radius: 3px; padding: 1px 5px; margin-left: 0.5rem; vertical-align: middle; }
+.badge {
+  font-size: 0.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #059669;
+  border: 1px solid #059669;
+  border-radius: 3px;
+  padding: 1px 5px;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
 
-.quotes { list-style: none; display: flex; flex-direction: column; gap: 0.5rem; margin-top: 0.4rem; }
-.quotes li { padding: 0.4rem 0.85rem; border-left: 3px solid #2563eb; font-style: italic; color: #374151; background: #f9fafb; border-radius: 0 4px 4px 0; }
+.quotes {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.4rem;
+}
+.quotes li {
+  padding: 0.4rem 0.85rem;
+  border-left: 3px solid #2563eb;
+  font-style: italic;
+  color: #374151;
+  background: #f9fafb;
+  border-radius: 0 4px 4px 0;
+}
+
+.privacy-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #4b5563;
+  margin-left: auto;
+  cursor: pointer;
+  user-select: none;
+}
+.privacy-toggle input {
+  cursor: pointer;
+}
+
+.privacy-mode-active .field-text,
+.privacy-mode-active .quotes li {
+  filter: blur(5px);
+  transition: filter 0.2s ease;
+  user-select: none;
+}
+
+.privacy-mode-active .card:hover .field-text,
+.privacy-mode-active .card:hover .quotes li {
+  filter: blur(0);
+}

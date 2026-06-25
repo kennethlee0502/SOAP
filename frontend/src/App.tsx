@@ -4,10 +4,13 @@ import type { SoapNote, TranscriptKey } from "./types";
 import { TRANSCRIPT_KEYS, TRANSCRIPT_LABELS } from "./types";
 
 export default function App() {
-  const [selectedKey, setSelectedKey] = useState<TranscriptKey>(TRANSCRIPT_KEYS[0]);
+  const [selectedKey, setSelectedKey] = useState<TranscriptKey>(
+    TRANSCRIPT_KEYS[0],
+  );
   const [soapNote, setSoapNote] = useState<SoapNote | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [isPrivacyMode, setIsPrivacyMode] = useState(true);
 
   const handleGenerate = async () => {
     setLoading(true);
@@ -17,7 +20,9 @@ export default function App() {
       const note = await generateSoapNote(selectedKey);
       setSoapNote(note);
     } catch (err) {
-      setError(err instanceof Error ? err.message : "An unexpected error occurred.");
+      setError(
+        err instanceof Error ? err.message : "An unexpected error occurred.",
+      );
     } finally {
       setLoading(false);
     }
@@ -49,22 +54,35 @@ export default function App() {
             </option>
           ))}
         </select>
-
         <button onClick={handleGenerate} disabled={loading} type="button">
           {loading ? "Generating…" : "Generate SOAP Note"}
         </button>
+        {soapNote && (
+          <label className="privacy-toggle">
+            <input
+              type="checkbox"
+              checked={isPrivacyMode}
+              onChange={(e) => setIsPrivacyMode(e.target.checked)}
+            />
+            🔒 HIPAA Privacy Mask
+          </label>
+        )}
       </div>
 
       {error && <p className="error">{error}</p>}
 
       {soapNote && (
-        <div className="soap-note">
+        <div
+          className={`soap-note ${isPrivacyMode ? "privacy-mode-active" : ""}`}
+        >
           <div className="card">
             <p className="card-label">Subjective</p>
 
             <div className="field">
               <p className="field-label">Chief Complaint</p>
-              <p className="field-text">{soapNote.subjective.chief_complaint}</p>
+              <p className="field-text">
+                {soapNote.subjective.chief_complaint}
+              </p>
             </div>
 
             <div className="field">

@@ -1,122 +1,101 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import { useState } from "react";
+import { generateSoapNote } from "./api";
+import type { SoapNote, TranscriptKey } from "./types";
+import { TRANSCRIPT_KEYS, TRANSCRIPT_LABELS } from "./types";
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function App() {
+  const [selectedKey, setSelectedKey] = useState<TranscriptKey>(TRANSCRIPT_KEYS[0]);
+  const [soapNote, setSoapNote] = useState<SoapNote | null>(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+
+  const handleGenerate = async () => {
+    setLoading(true);
+    setError(null);
+    setSoapNote(null);
+    try {
+      const note = await generateSoapNote(selectedKey);
+      setSoapNote(note);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "An unexpected error occurred.");
+    } finally {
+      setLoading(false);
+    }
+  };
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
+    <div className="container">
+      <header>
+        <h1>SOAP Note Generator</h1>
+        <p className="subtitle">
+          AI-generated clinical documentation from patient encounter transcripts
+        </p>
+      </header>
+
+      <div className="controls">
+        <select
+          value={selectedKey}
+          onChange={(e) => {
+            // Value is constrained to TranscriptKey by the option list below
+            setSelectedKey(e.target.value as TranscriptKey);
+            setSoapNote(null);
+            setError(null);
+          }}
+          disabled={loading}
         >
-          Count is {count}
+          {TRANSCRIPT_KEYS.map((key) => (
+            <option key={key} value={key}>
+              {TRANSCRIPT_LABELS[key]}
+            </option>
+          ))}
+        </select>
+
+        <button onClick={handleGenerate} disabled={loading} type="button">
+          {loading ? "Generating…" : "Generate SOAP Note"}
         </button>
-      </section>
+      </div>
 
-      <div className="ticks"></div>
+      {error && <p className="error">{error}</p>}
 
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
+      {soapNote && (
+        <div className="soap-note">
+          <div className="card">
+            <p className="card-label">Subjective</p>
+
+            <div className="field">
+              <p className="field-label">Chief Complaint</p>
+              <p className="field-text">{soapNote.subjective.chief_complaint}</p>
+            </div>
+
+            <div className="field">
+              <p className="field-label">History of Present Illness</p>
+              <p className="field-text">{soapNote.subjective.hpi}</p>
+            </div>
+
+            <div className="field">
+              <p className="field-label">
+                Patient Quotes
+                <span className="badge">verbatim</span>
+              </p>
+              <ul className="quotes">
+                {soapNote.subjective.patient_quotes.map((quote, i) => (
+                  <li key={i}>{quote}</li>
+                ))}
+              </ul>
+            </div>
+          </div>
+
+          <div className="card">
+            <p className="card-label">Objective</p>
+            <p className="field-text">{soapNote.objective}</p>
+          </div>
+
+          <div className="card">
+            <p className="card-label">Assessment and Plan</p>
+            <p className="field-text">{soapNote.assessment_and_plan}</p>
+          </div>
         </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+      )}
+    </div>
+  );
 }
-
-export default App
